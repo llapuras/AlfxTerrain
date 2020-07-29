@@ -11,6 +11,7 @@
 - 高度图和细分曲面实现地形
 - 脚印
 - 扬尘
+- 地形加载
  
 *目前游戏中应用效果：
 ![gif](https://github.com/llapuras/AlfxTerrain/blob/master/desert.gif)
