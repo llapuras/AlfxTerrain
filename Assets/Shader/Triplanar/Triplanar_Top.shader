@@ -1,5 +1,6 @@
 ﻿Shader "Toon/Lit Tri Planar Normal" {
-	//添加方向
+	//TODO:
+	//- 添加方向
 	Properties{
 		_Color("Main Color", Color) = (0.5,0.5,0.5,1)
 		_MainTex("Top Texture", 2D) = "white" {}
